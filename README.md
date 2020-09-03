@@ -22,7 +22,7 @@ The major objective was to come up with an app that can help people to find out 
 *Note: further improovements are done on this code for better accuracy and for design changes.
 
 # Reference
-https://github.com/shubhampokhrel81/Fruits-and-Vegetable-Recognition-System-using-CNN
-Fruit recognition from images using deep learning, Horea Muresan, Mihai Oltean (pdf)
+* https://github.com/shubhampokhrel81/Fruits-and-Vegetable-Recognition-System-using-CNN
+* Fruit recognition from images using deep learning, Horea Muresan, Mihai Oltean (pdf)
 
 
