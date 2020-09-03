@@ -18,3 +18,5 @@ The major objective was to come up with an app that can help people to find out 
 * MySql
 * Flask
 * python
+
+*Note: further improovements are done on this code for better accuracy and for design changes.
